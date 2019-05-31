@@ -7,16 +7,7 @@ keywords:
 author: 
 footerText: ''
 
-# 域名配置,生成sitemap会用到，友链也会用到
-domainUrl: ''
-# 路径配置，静态资源404一般是这里不对
-# 直接域名访问设置为'',有如果是user.github.io/blog/访问的话设置为'/blog'
-<<<<<<< HEAD
-url: 'http://8527.github.io'
-baseUrl: '/others'
-=======
 baseUrl: 'https://8527.github.io/others'
->>>>>>> b95c4b3e79bd493171390f12f8b4f83b0541e425
 
 # 菜单
 menu:
